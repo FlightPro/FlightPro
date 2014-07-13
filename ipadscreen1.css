@@ -1,0 +1,18 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.0/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+.ipadscreen1_mobilecontainer2:not(.width_gt_650) {
+	height: auto;
+	margin-bottom: 40px;
+}
+/* mobilecontainer2 */
+.ui-content.ipadscreen1_mobilecontainer2 > .content-secondary > .scroller .ui-collapsible-content {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilefooter2 */
+.ipadscreen1_mobilefooter2 {
+	min-height:38px;
+	bottom:0;
+}
